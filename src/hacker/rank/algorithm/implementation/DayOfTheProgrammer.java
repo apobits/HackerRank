@@ -25,7 +25,7 @@ public class DayOfTheProgrammer {
 	    calendar.set(Calendar.YEAR, year);
 	    calendar.set(Calendar.DAY_OF_YEAR, dayOfYear);
 
-	    SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy");
+	    SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHH:MM:SS");
 	    System.out.println(sdf.format(calendar.getTime()));
 
 	}
