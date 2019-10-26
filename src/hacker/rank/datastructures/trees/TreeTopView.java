@@ -1,7 +1,7 @@
 /**
  * 
  */
-package hacker.rank.datastructures.tree;
+package hacker.rank.datastructures.trees;
 
 import java.util.Scanner;
 
